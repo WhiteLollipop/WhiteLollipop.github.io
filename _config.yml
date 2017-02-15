@@ -1,20 +1,20 @@
 # Site settings
-title: 瓜瓜
-SEOTitle: 瓜瓜的博客
+title: Lollipop
+SEOTitle: Lollipop的博客
 header-img: img/home-bg.jpg
-email: schromelon@gmail.com
-description: "写一行代码，是个Bug"
+email: ""
+description: "你们都不如我漂亮"
 keyword: ""
-url: "saltcoffee.github.io"              # your host, for absolute URL
+url: "whitelollipop.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     soltcoffee
-zhihu_username:     sosopro
-github_username:    saltcoffee
+weibo_username:     一点不像舒淇的Yumi
+zhihu_username:     
+github_username:    WhiteLollipop
 
 
 
@@ -48,7 +48,7 @@ kramdown:
 # disqus_username: nishuilemei
 
 # Duoshuo settings
-duoshuo_username: saltcoffee
+duoshuo_username: whitelollipop
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
@@ -67,7 +67,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我听过千百首歌，真是的日子还是……"
+sidebar-about-description: ""
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
